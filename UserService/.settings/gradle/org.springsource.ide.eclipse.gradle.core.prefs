@@ -1,4 +1,4 @@
 #org.springsource.ide.eclipse.gradle.core.preferences.GradleProjectPreferences
-#Sun Jun 05 21:07:32 IST 2016
-build.family.org.gradle.tooling.model.eclipse.HierarchicalEclipseProject=;
+#Sat Jun 11 18:43:32 IST 2016
+build.family.org.gradle.tooling.model.eclipse.HierarchicalEclipseProject=;../BSEntities;
 org.springsource.ide.eclipse.gradle.rootprojectloc=
